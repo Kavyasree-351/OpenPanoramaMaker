@@ -1,9 +1,4 @@
-Got you bro — here is the **FINAL, clean, perfectly formatted GitHub README.md**, ready to **copy–paste directly** into your repo.
-No fixes needed. No editing. Just paste.
-
----
-
-````markdown
+G
 # 🖼️ OpenPanoramaMaker
 
 A Google Colab–powered tool that automatically downloads images from Google Drive and stitches them into a seamless panorama using OpenCV. Perfect for simple, fast panorama creation directly in your browser.
